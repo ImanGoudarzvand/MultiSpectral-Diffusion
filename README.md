@@ -92,7 +92,10 @@ bash ssh_scripts/multispectral_img_upsample.sh
 
 ## Acknowledgement
 Our code has heavily inspired by :
-[Diffusion Models Beat GANS on Image Synthesis](https://github.com/openai/guided-diffusion) 
+* [Diffusion Models Beat GANS on Image Synthesis](https://github.com/openai/guided-diffusion) 
+* [MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://github.com/researchmm/MM-Diffusion)
+
+For wavelet transformations, we utilize implementations from [pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets.git)
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper.
