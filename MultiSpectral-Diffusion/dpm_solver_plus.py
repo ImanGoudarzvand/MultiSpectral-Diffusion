@@ -1,5 +1,5 @@
 '''
-Multimodal DPM Solver (MM-Diffusion)
+MultiSpectral DPM Solver 
 original from https://github.com/LuChengTHU/dpm-solver/blob/main/dpm_solver_pytorch.py
 '''
 

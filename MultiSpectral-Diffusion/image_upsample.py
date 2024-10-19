@@ -1,5 +1,5 @@
 """
-Generate a large batch of video-audio pairs
+Generate a batch of upsampled images
 """
 import sys,os
 import argparse
