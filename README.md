@@ -70,7 +70,7 @@ We only use the training set for training.
 2. Download the STL-10 dataset.
 3. Modify relative pathes and run multispectral_img_gen script to generate images.
 ```
-bash ssh_scripts/multispectral_img_gen.sh
+bash scripts/multispectral_img_gen.sh
 ```
 
 
@@ -78,7 +78,7 @@ bash ssh_scripts/multispectral_img_gen.sh
 1. Download STL-10 dataset. 
 2. run train script.
 ```
-bash ssh_scripts/multispectral_train.sh
+bash scripts/multispectral_train.sh
 ```
 
 ## Conditional Generation
@@ -87,7 +87,7 @@ bash ssh_scripts/multispectral_train.sh
 3. Modify relative pathes and run multispectral_img_upsample script to conditionally generate wavelet coeffcients for image upsampling.
 
 ```
-bash ssh_scripts/multispectral_img_upsample.sh
+bash scripts/multispectral_img_upsample.sh
 ```
 
 ## Acknowledgement
